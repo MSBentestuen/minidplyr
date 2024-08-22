@@ -8,7 +8,8 @@
 #' @param y 
 #'
 #' @return A numeric
-#' @export is needed to make functions available to the user(s)
+#' @export
+#  is needed to make functions available to the user(s)
 #'
 #' @examples 
 #' my_fancy_add(2, 3)
